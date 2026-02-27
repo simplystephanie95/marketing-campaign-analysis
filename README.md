@@ -47,3 +47,4 @@ Targeting these groups can improve campaign efficiency and increase return on ma
 ## Repository Structure
 - `queries.sql` — SQL used for KPI and segmentation analysis
 - `insights.md` — Detailed written findings and business recommendations
+- `dataset_description.md` — Overview of dataset variables and data preparation steps
